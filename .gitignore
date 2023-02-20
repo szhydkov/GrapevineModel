@@ -1,0 +1,5 @@
+
+Manifest.toml
+*.jupyterlab-workspace
+.ipynb_checkpoints/
+.jupyter/
