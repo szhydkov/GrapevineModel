@@ -1,6 +1,6 @@
 # Learning through the Grapevine
 
-This repository provide the code to accompany the AAMAS 2023 paper "The Grapevine Web: Analysing the Spread of False Information in Social Networks with Corrupted Sources" by Jacques Bara, Charlie Pilgrim, Paolo Turrini and Stanislav Zhydkov. 
+This repository provides the code to accompany the AAMAS 2023 paper "The Grapevine Web: Analysing the Spread of False Information in Social Networks with Corrupted Sources" by Jacques Bara, Charlie Pilgrim, Paolo Turrini and Stanislav Zhydkov. 
 
 `GrapevineModel.jl` provides to back end code for the model and other functions used in the notebooks.
 
